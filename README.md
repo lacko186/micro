@@ -1,3 +1,6 @@
+projekt:
+
+<center><img src="Screenshot_20251029_000737_Chrome.jpg" alt="pic"></center>
 
 > Az oldal megnyitása itt: [https://lacko186.github.io/micro/](https://lacko186.github.io/micro/)
 
